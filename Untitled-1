@@ -1,0 +1,6 @@
+<?php
+$name = "kwanchai";
+echo $name = "paenying";
+echo "br";
+echo $name ;
+?>
